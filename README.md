@@ -38,7 +38,7 @@ Feel free to contact me!
 <h3>Programming Languages / Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,sql,latex,git,github"/>
+    <img src="https://skillicons.dev/icons?i=py,r,mysql,latex,git,github"/>
   </a>
 </p>
 
