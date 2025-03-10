@@ -42,15 +42,5 @@ Feel free to contact me!
   </a>
 </p>
 
-## 📊 My GitHub Status  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roger2389&show_icons=true&count_private=false&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger2389&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true" />
-</p>
-
----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
