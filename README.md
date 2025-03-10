@@ -57,6 +57,4 @@ Feel free to contact me!
 </p>
 
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roger2389&show_icons=true&hide_border=true&count_private=true&theme=radical" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger2389&layout=compact&langs_count=7&hide_border=true&theme=radical"/> </p>
-
 
