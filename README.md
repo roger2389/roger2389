@@ -12,13 +12,14 @@ I'm Roger, currently a Master's student at National Chengchi University (NCCU), 
 
 <h3>Experiences</h3>
 <ul>
-  <li>Academic</li>
+  <li><strong>Academic</strong>
     <ul>
       <li>Master's Student @ National Chengchi University (NCCU)</li>
       <li>Bachelor's Student @ National Sun-Yat-Sen University</li>
     </ul>
-<ul>
-  <li>Professional & Societies</li>
+  </li>
+  <br>
+  <li><strong>Professional & Societies</strong>
     <ul>
       <li>Quantitative Trading Intern @ PSC</li>
       <li>Quantitative Research Intern @ MBQ</li>
@@ -26,6 +27,9 @@ I'm Roger, currently a Master's student at National Chengchi University (NCCU), 
       <li>Team Research @ Jams Capital Portfolio Management Team</li>
       <li>Team Mentor @ TMBA Algorithm Trading Team</li>
     </ul>
+  </li>
+</ul>
+
 </ul>
 
 
