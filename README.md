@@ -42,12 +42,15 @@ Feel free to contact me!
   </a>
 </p>
 
-<h2><img src="https://media.giphy.com/media/9A4VXopO66WMraBtss/giphy.gif" width="50">&nbsp;My GitHub Status</h2>  
-<div align="center">
-  <img style="display: inline-block" src="https://github-readme-stats.vercel.app/api?username=roger2389&show_icons=true&count_private=false&hide_border=true" align="center" />
-  <img style="display: inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger2389&layout=compact&show_icons=true&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=jupyter%20notebook" align="center" />
-</div>
+## 📊 My GitHub Status  
 
-----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roger2389&show_icons=true&count_private=false&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger2389&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true" />
+</p>
+
+---
+
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 
