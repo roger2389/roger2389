@@ -57,7 +57,5 @@ Feel free to contact me!
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roger2389&layout=compact)](https://github.com/roger2389/github-readme-stats)
-
 
 
