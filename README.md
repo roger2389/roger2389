@@ -15,7 +15,7 @@ I'm Roger, currently a Master's student at National Chengchi University (NCCU), 
   <li>Academic</li>
     <ul>
       <li>Master's Student @ National Chengchi University (NCCU)</li>
-      <li></li>
+      <li>Bachelor's Student @ National Sun-Yat-Sen University</li>
     </ul>
   <li>Professional & Societies</li>
     <ul>
