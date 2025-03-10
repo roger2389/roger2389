@@ -1,14 +1,13 @@
 <h2><img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="60">&nbsp;Hi, I'm Roger!</h2>
 
-I'm Roger, currently a Master's student at National Chengchi University (NCCU), focusing on quantitative finance, asset pricing, and machine learning applications in finance.
+I'm Roger, currently a Master's student at National Chengchi University (NCCU), focusing on quantitative trading, asset allocation.
 
 <h3>Research Interests</h3>
 <ul>
-  <li>Empirical Asset Pricing</li>
+  <li>Empirical Asset Allocation</li>
   <li>Quantitative Trading Strategies</li>
   <li>Event-Driven Trading Strategies</li>
-  <li>Machine Learning in Finance</li>
-  <li>Volatility Modeling & Risk Management</li>
+
 </ul>
 
 <h3>Experiences</h3>
@@ -16,22 +15,24 @@ I'm Roger, currently a Master's student at National Chengchi University (NCCU), 
   <li>Academic</li>
     <ul>
       <li>Master's Student @ National Chengchi University (NCCU)</li>
-      <li>Researcher in Asset Pricing & Quantitative Strategies Lab</li>
+      <li></li>
     </ul>
   <li>Professional & Societies</li>
     <ul>
-      <li>Quantitative Analyst Intern @ AlphaHelix Asset Management</li>
-      <li>Team Leader @ NCCU Algorithm Trading Team</li>
+      <li>Quantitative Trading Intern @ PSC</li>
+      <li>Quantitative Research Intern @ MBQ</li>
+      <li>Quantitative Analyst Intern @ TEJ</li>
+      <li>Team Research @ Jams Capital Portfolio Management Team</li>
+      <li>Team Mentor @ TMBA Algorithm Trading Team</li>
     </ul>
 </ul>
 
-Besides academic work, I enjoy reading, fitness, exploring new technologies, and financial markets.
+
 
 Feel free to contact me!
 
-[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:roger2389@gmail.com)
-[![My LinkedIn](https://img.shields.io/badge/My%20Linkedin-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/roger2389/)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Froger2389&label=VISITORS&labelColor=%23dce775&countColor=%23697689)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Froger2389)
+[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:aad53325489@gmail.com)
+[![My LinkedIn](https://img.shields.io/badge/My%20Linkedin-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/roger2389/](https://www.linkedin.com/in/sheng-hua-chen-8b735b2a5/))
 
 <h2><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="50">&nbsp;My Skill Set</h2>
 <h3>Programming Languages / Tools / ML Related</h3>
