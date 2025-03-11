@@ -12,10 +12,10 @@ I'm Roger, currently a Master's student at National Chengchi University (NCCU), 
 
 <h3>Quantitative Skills / Methodologies</h3>
 <ul>
-  <li>📈 Factor Modeling (因子模型)</li>
-  <li>🤖 Machine Learning (機器學習)</li>
-  <li>📊 Portfolio Optimization (投組最佳化)</li>
-  <li>📉 Time-Series Analysis (時間序列分析)</li>
+  <li>📈 Factor Modeling</li>
+  <li>🤖 Machine Learning</li>
+  <li>📊 Portfolio Optimization</li>
+  <li>📉 Time-Series Analysis</li>
 </ul>
 
 
