@@ -30,11 +30,12 @@ I'm Roger, currently a Master's student at National Chengchi University (NCCU), 
   <br>
   <li><strong>Professional & Societies</strong>
     <ul>
-      <li>Quantitative Trading Intern @ PSC</li>
-      <li>Quantitative Research Intern @ MBQ</li>
-      <li>Quantitative Research Intern @ EDGE Quantitative Trading</li>
-      <li>Quantitative Analyst Intern @ TEJ</li>
-      <li>Quantitative Trading Intern @ Crypto Arsenal</li>
+      <li>Quantitative Intern @ SQM technologies</li>
+      <li>Quantitative Intern @ PSC</li>
+      <li>Quantitative Intern @ MBQ</li>
+      <li>Quantitative Intern @ EDGE Quantitative Trading</li>
+      <li>Quantitative Intern @ TEJ</li>
+      <li>Quantitative Intern @ Crypto Arsenal</li>
       <li>Team Researcher @ Jams Capital Portfolio Management Team</li>
       <li>Team Mentor @ TMBA Algorithm Trading Team</li>
     </ul>
