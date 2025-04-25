@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="60">&nbsp;Hi, I'm Roger!</h2>
+<h2><img src="[https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJoZzMwdGttcXhyZXB1Zm55ZjdzamRyazdwYmo0OHkydDJ5YmRkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7GXg8S0pzOPIRi/giphy.gif)" width="60">&nbsp;Hi, I'm Roger!</h2>
 
 I'm Roger, currently a Master's student at National Chengchi University (NCCU), focusing on quantitative trading, asset allocation.
 
